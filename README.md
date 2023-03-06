@@ -94,14 +94,6 @@ This API based on this [website](https://lahelu.com/trending) and got simplified
 3. Run <br />
    `npm start`
 
-for FE just send payload like
-
-```
-    {
-        searchKey:"the Video You Wanna Search"
-    }
-```
-
 <hr />
 
 ## Demo
